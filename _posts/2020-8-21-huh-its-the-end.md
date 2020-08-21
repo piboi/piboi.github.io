@@ -30,6 +30,6 @@ Anyways, I probably have like 69 grammatical errors in this, I'm too tired to re
 
 
 [^1]: 1: [Projects](https://piboi.github.io/projects/)
-[^1]: 2: Here's my [YouTube Channel](bit.ly/vectorbadminton)
+[^2]: 2: Here's my [YouTube Channel](bit.ly/vectorbadminton)
 
 >This post was originally from [my blog](https://artofproblemsolving.com/community/c1166939h2242969_huh_its_the_end)
