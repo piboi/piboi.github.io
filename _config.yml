@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "Pi"
+title_left    : "pi"
 title_right   : "boi" # default: ""
-description   : "A Pi, and a boi, makes a master procrastinator"
+description   : "A pi, and a boi, makes a master procrastinator"
 
 url           : https://piboi.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
