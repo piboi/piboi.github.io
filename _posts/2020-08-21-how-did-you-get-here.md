@@ -3,6 +3,7 @@ layout: post
 title: "How did you get here?"
 description: "I really do wonder"
 comments: true
+site.postshare_enabled: true
 keywords: "new website"
 ---
 
