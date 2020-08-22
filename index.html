@@ -22,7 +22,30 @@ title: Home
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
     {% endfor %}
+    <h1>Light / Dark Mode</h1>
+        <div class="toggle-container">
+            <input type="checkbox" id="switch" name="theme" /><label for="switch">Toggle</label>
+        </div>
   </div>
+  <script>        
+    var checkbox = document.querySelector('input[name=theme]');
 
+        checkbox.addEventListener('change', function() {
+            if(this.checked) {
+                trans()
+                document.documentElement.setAttribute('data-theme', 'dark')
+            } else {
+                trans()
+                document.documentElement.setAttribute('data-theme', 'light')
+            }
+        })
+
+        let trans = () => {
+            document.documentElement.classList.add('transition');
+            window.setTimeout(() => {
+                document.documentElement.classList.remove('transition')
+            }, 1000)
+        }
+  </script>
 </section>
 
