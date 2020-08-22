@@ -23,7 +23,10 @@ title: Home
         <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></div>
       </article>
     {% endfor %}
-        
+        <div class="toggle-container">
+          <h3>Light/Dark</h3>
+            <input type="checkbox" id="switch" name="theme" /><label for="switch">Light/Dark</label>
+        </div>
   </div>
   <script>        
     var checkbox = document.querySelector('input[name=theme]');
@@ -46,7 +49,5 @@ title: Home
         }
   </script>
 </section>
-<div class="toggle-container">
-            <input type="checkbox" id="switch" name="theme" /><label for="switch">Light/Dark</label>
-        </div>
+
 </html>
