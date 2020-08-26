@@ -12,21 +12,17 @@ Huh, so first day of school was a bit overwhelming. As it turns out, none of my 
 Anyways, am much tire, so here is a redemption problem
 
 
-**The Problem**
+##**The Problem**
 
 Find all reals x such that
 
 ![pic1](https://media.discordapp.net/attachments/696878929373298751/748302060960612423/481250375786037258.png)
 
-**Sol**
+##**Sol**
 
 First of all, notice that x = 2 works. Now it seems that as x increases, the LHS decreases, and the RHS increases. We now prove that.
 
-If we divide by 
-
-![pic2](https://media.discordapp.net/attachments/696878929373298751/748302486678274078/481250375786037258.png)
-
-on both sides, notice that we get:
+If we divide by 13^x on both sides, notice that we get:
 
 ![pic3](https://media.discordapp.net/attachments/696878929373298751/748302596246077541/481250375786037258.png?width=1920&height=331)
 
