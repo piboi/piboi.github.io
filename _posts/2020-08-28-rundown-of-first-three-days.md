@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Quick rundown of the first three days of school"
+description: "Oh well there goes my three days"
+comments: true
+site.postshare_enabled: true
+keywords: "blog"
+---
+
+
 Basically school got an hour longer every day so that sucks, they took time out of athletics (which don't exist due to corona) and put it into our schedule. This has its ups and downs.
 
 8th grade > 6th grade > 7th grade > 5th grade in terms of workload.
