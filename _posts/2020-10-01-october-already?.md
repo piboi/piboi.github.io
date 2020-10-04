@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Orientation Day was pretty funny"
-description: "First day of school"
+title: "What it's October already?"
+description: "days fly by"
 comments: true
 site.postshare_enabled: true
 keywords: "blog"
