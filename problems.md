@@ -14,3 +14,6 @@ This is a list of better problems & most of their solutions I've ever written, h
 ## A game of Su Gnoma (PoTY)
 ![poty2](https://cdn.discordapp.com/attachments/696878929373298751/772211450725793792/481250375786037258.png)
 
+## Complex Complex Problem (MODS QoTD)
+![qotd1](https://cdn.discordapp.com/attachments/763611244694994964/772248547868409856/POTD-24-0.png)
+
