@@ -18,3 +18,6 @@ This is a list of better problems & most of their solutions I've ever written, h
 ![qotd1](https://cdn.discordapp.com/attachments/763611244694994964/772248547868409856/POTD-24-0.png)
 
 Note: brainysmurfs actually put it into better wording lol
+
+## Haha Funny Numbers (MODS QoTD and CNCM PoTD)
+![qotd2](https://cdn.discordapp.com/attachments/763611244694994964/774422876802908160/POTD-33-0.png)
