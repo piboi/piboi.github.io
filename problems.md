@@ -19,5 +19,8 @@ This is a list of better problems & most of their solutions I've ever written, h
 
 Note: brainysmurfs actually put it into better wording lol
 
-## Haha Funny Numbers (MODS QoTD and CNCM PoTD)
+## Funny Numbers (MODS QoTD and CNCM PoTD)
 ![qotd2](https://cdn.discordapp.com/attachments/763611244694994964/774422876802908160/POTD-33-0.png)
+
+## Goodbye 2020 (BIMO 2020)
+![bimo1](https://cdn.discordapp.com/attachments/697907197518151700/792750817480278016/481250375786037258.png)
