@@ -1,3 +1,11 @@
+---
+layout: post
+title: "12 Means End Of A Year"
+description: "December means end of a year"
+comments: true
+site.postshare_enabled: true
+keywords: "blog"
+---
 this is just like "huh". 11 down, 1 to go.
 
 I feel like this year has been just weird in a lot of ways. I'm sure every person has found it weird/interesting in their own ways. December is probably my most and least favorite month because 1) winter break is awesome and 2) the days are just too short and sunsets and sunrises are nonexistent. I could prob not be able to understand what it would feel like to spend winter up north. Going outside and running is just suboptimal. I went out to run yesterday and yeah PE has made me less fit than I was before. This is probably because all we do is run a lap and then like play kickball.
